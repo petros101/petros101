@@ -3,7 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [www.petro.al](www.petro.al)
 
-- 📫 How to reach me **eldapetroshi1@gmail.com**
+- 📫 How to reach me **eldapetroshi1@gmail.com**,
+                      **elda.petroshi@fti.edu.al**
 
 - ⚡ Fun fact **As an electronics engineer in software, I understand how clicking a button on your app triggers activity within a microchip.**
 
