@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elda</h1>
-<h3 align="center">A skilled Python backend developer specializing in data engineering.</h3>
+<h3 align="center">A skilled Software Developer specializing in Data engineering.</h3>
 
 - 👨‍💻 All of my projects are available at [www.petro.al](www.petro.al)
 
-- 📫 How to reach me **eldapetroshi1@gmail.com**,
+- 📫 How to reach me **petroshii.elda@gmail.com**,
                       **elda.petroshi@fti.edu.al**
 
 - ⚡ Fun fact **As an electronics engineer in software, I understand how clicking a button on your app triggers activity within a microchip.**
