@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elda</h1>
-<h3 align="center">A skilled Software Developer specializing in Data engineering.</h3>
+<h3 align="center">A skilled Software Developer specializing in Data Engineering.</h3>
 
 - 👨‍💻 All of my projects are available at [www.petro.al](www.petro.al)
 
